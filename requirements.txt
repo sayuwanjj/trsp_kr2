@@ -1,4 +1,4 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-pydantic[email]==1.10.13
-itsdangerous==2.1.2
+fastapi
+uvicorn
+pydantic[email]<2.0.0
+itsdangerous
